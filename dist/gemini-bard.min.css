@@ -1,0 +1,26 @@
+/* يمكنك استبدال هذا بالمحتوى المخصص لك */
+.elcreative-gemini {
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    font-family: Arial, sans-serif;
+}
+
+.elcreative-gemini .input-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.elcreative-gemini .submit-btn {
+    background: #4285F4;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
